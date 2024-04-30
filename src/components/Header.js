@@ -13,7 +13,7 @@ const Header = () => {
       />
       <header>
         <nav>
-          <Link to="/" className="logo">
+          <Link to="/movie-hub" className="logo">
             <span>p</span>
             <span>r</span>
             <span>i</span>
@@ -36,7 +36,7 @@ const Header = () => {
           </label>
           <ul>
             <li className="one">
-              <Link to="/">home</Link>
+              <Link to="/movie-hub">home</Link>
             </li>
             <li className="two">
               <Link to="/movies">Movies</Link>

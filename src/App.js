@@ -9,11 +9,11 @@ import Tvshows from './components/Tvshows';
 function App() {
   return (
   <>
-  <Router basename='/movie_hub'>
+  <Router basename='/movie-hub'>
     <Header />
     <Routes>
       <Route index element={<Home/>}/>
-      <Route path='/' element={<Home/>}/>
+      <Route path='/movie-hub' element={<Home/>}/>
       <Route path='/Anime' element={<Anime/>}/>
       <Route path='/movies' element={<Movies/>}/>
       <Route path='/TvShows' element={<Tvshows/>}/>
