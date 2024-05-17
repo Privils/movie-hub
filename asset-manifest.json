@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/movie-hub/static/css/main.7cb595c2.css",
-    "main.js": "/movie-hub/static/js/main.3005fad9.js",
+    "main.css": "/movie-hub/static/css/main.340ca953.css",
+    "main.js": "/movie-hub/static/js/main.02c1499b.js",
     "static/js/453.1a52fc38.chunk.js": "/movie-hub/static/js/453.1a52fc38.chunk.js",
     "static/media/desktop4.png": "/movie-hub/static/media/desktop4.8b39eb67e045b6157974.png",
     "static/media/img2.wallspic.com-film-illustration-fiction-animation-dragon-5465x3074.jpg": "/movie-hub/static/media/img2.wallspic.com-film-illustration-fiction-animation-dragon-5465x3074.c424f6cdd660887bf19c.jpg",
     "static/media/tablet.jpg": "/movie-hub/static/media/tablet.42df48b0e6fd5054889c.jpg",
     "static/media/mobile600.jpg": "/movie-hub/static/media/mobile600.50652ad36f3aa4f1bc57.jpg",
     "index.html": "/movie-hub/index.html",
-    "main.7cb595c2.css.map": "/movie-hub/static/css/main.7cb595c2.css.map",
-    "main.3005fad9.js.map": "/movie-hub/static/js/main.3005fad9.js.map",
+    "main.340ca953.css.map": "/movie-hub/static/css/main.340ca953.css.map",
+    "main.02c1499b.js.map": "/movie-hub/static/js/main.02c1499b.js.map",
     "453.1a52fc38.chunk.js.map": "/movie-hub/static/js/453.1a52fc38.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7cb595c2.css",
-    "static/js/main.3005fad9.js"
+    "static/css/main.340ca953.css",
+    "static/js/main.02c1499b.js"
   ]
 }
