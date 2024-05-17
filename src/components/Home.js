@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { faHeart } from 'react-icons/fa'
+import { FaHeart } from 'react-icons/fa'
 
 const Home = () => {
     const [trendingMovies, setTrendingMovies] = useState([]);
