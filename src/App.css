@@ -218,6 +218,11 @@ iframe{
   color: transparent;
   position: relative;
 }
+.faHeart{
+  color: #f900dc;
+  font-size: 16px;
+ 
+}
 .notfound h1{
   font-family: Georgia, 'Times New Roman', Times, serif;
   text-align: center;

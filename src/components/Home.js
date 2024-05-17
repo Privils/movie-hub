@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import { faHeart } from 'react-icons/fa'
 
 const Home = () => {
     const [trendingMovies, setTrendingMovies] = useState([]);
@@ -199,7 +200,7 @@ const Home = () => {
         </div>
       </div>
       <div class="footer-bottom">
-        <p>&copy;(2024) Privils Movie Hub designed and developed by Priviledge. All rights reserved with credits to <a href="https://www.themoviedb.org/" className='TMDB'>TMDB</a>.</p>
+        <p>&copy;(2024) Privils Movie Hub made with <FaHeart className='faHeart'/> by Priviledge. All rights reserved with credits to <a href="https://www.themoviedb.org/" className='TMDB'>TMDB</a>.</p>
       </div>
     </footer>
  </>
